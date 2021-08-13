@@ -1,6 +1,5 @@
 +++
 date = 2018-06-28T17:17:55Z
-draft = true
 layout = "blocks"
 title = "All Available Blocks."
 [[page_sections]]
@@ -50,7 +49,7 @@ template = "text-only-hero-banner"
 [[page_sections]]
 background_image = "/uploads/2018/06/21/hero-2-bg.png"
 block = "hero-2"
-content = "We have blocks to spare"
+content = "We have blocks to spare or not"
 headline = "Blocks on<br>blocks<br><strong>on blocks</strong>"
 template = "hero-banner-w-image"
 [page_sections.cta]
