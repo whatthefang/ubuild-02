@@ -43,3 +43,7 @@ fields:
     label: Enabled
   - type: include
     template: link
+    showOnly:
+      field: enabled
+    name: hero-01
+    label: hero-01
