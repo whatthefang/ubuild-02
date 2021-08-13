@@ -8,8 +8,8 @@ fields:
   name: block
   default: feature-1
 - type: include
-  name: ''
-  label: ''
+  name: content-01
+  label: content-01
   template: text-column
 - type: field_group
   name: media
