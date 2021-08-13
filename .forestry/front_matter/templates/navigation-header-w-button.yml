@@ -16,6 +16,8 @@ fields:
   fields:
   - type: include
     template: link
+    name: nav-01-btn
+    label: nav-01-btn
   config:
     labelField: link_text
 - type: field_group
@@ -24,3 +26,5 @@ fields:
   fields:
   - type: include
     template: link
+    name: nav-01-btn-cta
+    label: nav-01-btn-cta

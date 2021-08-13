@@ -16,5 +16,7 @@ fields:
   fields:
   - type: include
     template: link
+    name: nav-01
+    label: nav-01
   config:
     labelField: link_text
