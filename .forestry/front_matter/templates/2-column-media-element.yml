@@ -13,9 +13,13 @@ fields:
   fields:
   - type: include
     template: media-element
+    name: 2-col-media
+    label: 2-col-media-01
 - type: field_group
   name: image_2
   label: Second Image
   fields:
   - type: include
     template: media-element
+    name: 2-col-media-02
+    label: 2-col-media-02
