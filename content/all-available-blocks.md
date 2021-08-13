@@ -41,7 +41,7 @@ link_url = "http://gohugo.io/documentation/"
 open_in_new_tab = true
 [[page_sections]]
 block = "header-3"
-logo = "/uploads/2018/06/21/forestry-full.svg"
+logo = "/uploads/ko4.jpg"
 template = "simple-header"
 [[page_sections]]
 block = "hero-1"
