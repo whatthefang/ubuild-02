@@ -17,7 +17,7 @@ page_sections:
     link_text: Team
   cta:
     link_url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    link_text: Button
+    link_text: clicker
     open_in_new_tab: true
 - template: hero-banner-w-image
   block: hero-2
